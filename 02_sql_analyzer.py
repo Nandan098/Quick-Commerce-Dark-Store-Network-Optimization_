@@ -51,7 +51,7 @@ def run_dmaic_measure_phase():
         ROUND(Customer_Lat, 4) AS Lat, 
         ROUND(Customer_Lon, 4) AS Lon
     FROM customer_orders
-    WHERE Order_Hour BETWEEN 19 AND 22 AND Order_Value_INR > 750
+    WHERE Order_Hour BETWEEN 17 AND 22 AND Order_Value_INR > 750
     ORDER BY Order_Value_INR DESC
     LIMIT 5;
     """

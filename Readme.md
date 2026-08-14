@@ -6,7 +6,7 @@
 ## Executive Problem Statement & Supply Chain Challenge
 In hyper-local quick commerce operations—such as in Bengaluru, which sees upward of 400,000 to 500,000 daily orders—maintaining a strict **10-minute Service Level Agreement (SLA)** is the primary driver of customer retention and market share. 
 
-* **The Operational Bottleneck:** Poor warehouse site selection leads to excessive transit distances, violating the 10-minute delivery window. Furthermore, uneven order distribution causes severe warehouse congestion during peak evening rushes (7 PM – 10 PM), leading to process variation and packing failures.
+* **The Operational Bottleneck:** Poor warehouse site selection leads to excessive transit distances, violating the 10-minute delivery window. Furthermore, uneven order distribution causes severe warehouse congestion during peak evening rushes (5 PM – 10 PM), leading to process variation and packing failures.
 * **The Strategic Dilemma:** Rapidly scaling the dark store footprint increases real-estate CapEx (monthly rent), while under-investing in infrastructure creates massive delivery bottlenecks and revenue-at-risk.
 
 ---
